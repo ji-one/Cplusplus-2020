@@ -6,4 +6,5 @@
 
 #### assginment list   
 - No.1 Type - new, delete  
-
+- No.2 Vector. 
+- No.3 Function. 
