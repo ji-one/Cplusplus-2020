@@ -9,3 +9,6 @@
 - No.2 Vector  
 - No.3 Function  
 - No.4 Class  
+- No.5 Class
+- No.6 Class constructor & destructor
+- No.7 Operator overloading  
