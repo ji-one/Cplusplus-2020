@@ -12,3 +12,4 @@
 - No.5 Class
 - No.6 Class constructor & destructor
 - No.7 Operator overloading  
+- No.8 Inheritance  
