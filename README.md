@@ -14,3 +14,4 @@
 - No.7 Operator overloading  
 - No.8 Inheritance  
 - No.9 Polymorphism  
+- No.10 Inheritance  
