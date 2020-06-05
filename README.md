@@ -4,7 +4,7 @@
 #### professor
 채흥석 교수님
 
-#### assginment list   
+#### Lab List   
 - No.1 Type - new, delete  
 - No.2 Vector  
 - No.3 Function  
