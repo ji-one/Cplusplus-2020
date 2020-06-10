@@ -30,7 +30,9 @@ public:
 			return false;
 		}
 	}
-};class MyString {
+};
+
+class MyString {
 private:
 	char* str;
 public:
@@ -55,7 +57,9 @@ public:
 		}
 	}
 
-};template <class T, int sz>
+};
+
+template <class T, int sz>
 class List
 {
 	vector<T> v;
@@ -161,4 +165,4 @@ int main() {
 	s3List.add("123");
 	s3List = s2List;
 	s3List.remove("def");
-}
+}
