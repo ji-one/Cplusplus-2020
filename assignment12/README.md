@@ -4,3 +4,4 @@ Implement a program that handles exceptions that can occur in functions of the C
 
 - `push(char c)`  
 - `pop()`
+- destructor, copy constructor, assignment operator  
