@@ -22,3 +22,8 @@
 - No.11 Template class  
 
   Implement template class List using templates
+  
+- No.12 Exception Handling  
+  
+  Implement a program that handles exceptions that can occur in functions of the CharStack class  
+
