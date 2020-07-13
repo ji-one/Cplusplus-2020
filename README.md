@@ -1,6 +1,4 @@
 # Cplusplus-2020
-###### C++프로그래밍 수업기록
-----
 
 #### assignment list   
 - No.1 Type - new, delete  
